@@ -1,0 +1,63 @@
+html{
+    background-color: #07cbf7;
+}
+div.registerForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+body{
+      margin-left: auto;
+    margin-right: auto;
+}
+
+form{
+    border: 5px solid black;
+    height: 100%;
+    width: 500px;
+    padding: 40px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+div.insideForm{
+    width:100%;
+    justify-content: center;
+}
+
+input.age{
+    width:30%;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+button.newRegisterButton{
+ margin-top: 50px;
+margin-left: auto;
+cursor: pointer;
+width: 100%;
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 5px;
+font-weight: bold;
+color: white;
+background-color: blue;
+}
+
+div.inputgroup{
+    margin-top: 20px;
+}

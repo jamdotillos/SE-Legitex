@@ -1,0 +1,71 @@
+html{
+    background-color: #07cbf7;
+}
+
+div.legitexForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+   
+}
+
+body{
+      margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+button.loginButton {
+margin-top: 50px;
+margin-left: auto;
+cursor: pointer;
+width: 100%;
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 5px;
+font-weight: bold;
+color:white;
+background-color: blue;
+}
+
+
+form{
+    border: 5px solid black;
+   /* height: 500px;*/
+   height: 100%;
+    width: 500px;
+    padding: 40px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
+h1 {
+    text-align: center;
+}
+
+div.inside{
+/*
+margin: auto;
+margin-top: 150px;
+*/
+width:100%;
+}
+
+p{
+    margin-top: 10px;
+}
+
+div.input-state{
+margin-top: 20px;
+
+}
+
